@@ -1,6 +1,6 @@
-# middarkknightcoder-
-
+<img style="width:100%;" src="https://www.shutterstock.com/shutterstock/videos/1083477193/thumb/7.jpg?ip=x480">
 <h1 align="center">Hi 👋, I'm Data Enthusiasts</h1>
+<hr>
 <h3 align="center">A passionate ML developer from India and also passionate in data science.</h3>
 
 <h3 align="left">Connect with me:</h3>
