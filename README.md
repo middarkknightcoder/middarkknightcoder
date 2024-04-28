@@ -1,11 +1,13 @@
-<img style="width:100%;" src="https://www.shutterstock.com/shutterstock/videos/1083477193/thumb/7.jpg?ip=x480">
-<h1 align="center">Hi 👋, I'm Data Enthusiasts</h1>
-<img src="https://camo.githubusercontent.com/5a91d110f3b3bb3df71d4a484aed847295b8cf6e5317e765001a0e349a09aced/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f636f6c6f723d25626666662673697a653d333026666f6e743d706f7070696e732b73616e732b73657269662663656e7465723d74727565266c696e65733d2546302539462539312538422b486579212b49276d2b4d4545542b424552413b49276d2b612b5765622b446576656c6f7065722b254630253946253932254242" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?color=%bfff&amp;size=30&amp;font=poppins+sans+serif&amp;center=true&amp;lines=%F0%9F%91%8B+Hey!+I'm+RONAK+KANTARIYA;I'm+a+DATA+SCIENTIST%F0%9F%92%BB" style="max-width: 100%;">
+
+<img style="width:100%; height:18rem;" src="https://www.shutterstock.com/shutterstock/videos/1083477193/thumb/7.jpg?ip=x480">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+I'm+RONAK+KANTARIYA++;I'm+DATA+SCIENTIST+" alt="Typing SVG" align="center"/></a>
 <hr>
 <h3 align="center">A passionate ML developer from India and also passionate in data science.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/ronak kantariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak kantariya" height="30" width="40" /></a>
 </p>
 
