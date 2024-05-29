@@ -1,6 +1,6 @@
 <img style="width:100%; height:18rem;" src="https://www.shutterstock.com/shutterstock/videos/1083477193/thumb/7.jpg?ip=x480">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+I'm+RONAK+KANTARIYA++;I'm+DATA+SCIENTIST+" alt="Typing SVG" align="center"/></a>
+<a href="https://git.io/typing-svg" style="text-align : center;"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+I'm+RONAK+KANTARIYA++;I'm+DATA+SCIENTIST+" alt="Typing SVG" align="center"/></a>
 <hr>
 
 <div class="container text-center">
