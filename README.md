@@ -2,7 +2,7 @@
 
 <div align="center">
 <img  align="center" src="https://cdn-icons-png.flaticon.com/256/6558/6558597.png">
-<a href="https://git.io/typing-svg"><img style="text-align: center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+I'm+RONAK+KANTARIYA++;I'm+DATA+SCIENTIST+" alt="Typing SVG" align="center"/></a>
+<a href="https://git.io/typing-svg"><img style="text-align: center;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9F%91%8B+I'm+RONAK+KANTARIYA++;I'm+Full+Stack+Developer+" alt="Typing SVG" align="center"/></a>
 </div>
 
 <hr>
