@@ -21,7 +21,10 @@
 </div>
   <hr>
 <h2 style="display:inline-block;">🎯About Me</h2>
-<h3 align="left">A passionate ML developer from India and also passionate in data science.</h3>
+<h3 align="left">Enthusiastic and creative recent pursuing Bachelor's degree in Information and Communications
+Technology and Aspiring Web Developer with a strong foundation in AI/ML, passionate about
+creating innovative, user-centric solutions by integrating cutting-edge technologies to drive
+impactful digital experiences.</h3>
 </div>
 
 <hr>
